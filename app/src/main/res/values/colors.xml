@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="arkaPlan">#1c2632</color>
+    <color name="buttonRengi">#242530</color>
+    <color name="buttonRengi2">#3c3d4f</color>
+
+</resources>
